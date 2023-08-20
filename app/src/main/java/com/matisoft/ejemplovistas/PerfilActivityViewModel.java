@@ -37,6 +37,8 @@ public class PerfilActivityViewModel extends AndroidViewModel {
         traduccionesMap.put("rojo", new TraduccionInfo("red", R.drawable.rojo));
         traduccionesMap.put("azul", new TraduccionInfo("blue", R.drawable.azul));
         traduccionesMap.put("mesa", new TraduccionInfo("table", R.drawable.mesa));
+        traduccionesMap.put("casa", new TraduccionInfo("house", R.drawable.casa));
+
 
 
         TraduccionInfo traduccionInfo = traduccionesMap.get(palabra);

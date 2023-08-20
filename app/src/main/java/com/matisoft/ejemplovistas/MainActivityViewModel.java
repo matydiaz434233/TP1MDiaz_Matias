@@ -31,7 +31,6 @@ private Context context;
                 case "mesa":
                 case "azul":
                 case "rojo":
-
                 case "casa":
                     palabraValida = true;
                     break;
